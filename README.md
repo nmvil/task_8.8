@@ -1,4 +1,4 @@
-# Задание 8.8
+# [Задание 8.8](https://nmvil.github.io/task_8.8/)
 
 - [Задание 1](https://nmvil.github.io/task_8.8/task1/index.html)
 - [Задание 2](https://nmvil.github.io/task_8.8/task2/index.html)

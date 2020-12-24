@@ -1,0 +1,25 @@
+body {
+	font-family: Helvetica;
+	font-size: 2em;
+}
+ul {
+	text-align: center;
+}
+li {
+	list-style-type: none;
+}
+p {
+	text-align: center;
+}
+
+code {
+	background: #678299;
+	padding: 10px;
+	color: #FFFFFF;
+	border: 1px solid #FFFFFF;
+	border-radius: 10px;
+}
+
+a {
+	margin-top: 10px;
+}
